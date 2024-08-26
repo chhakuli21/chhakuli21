@@ -1,11 +1,11 @@
 
 
-<h1 align="center">Hi 👋, I'm Divya</h1>
+<h1 align="center">Hi 👋, I'm Chhakuli</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aratiraypure03&label=Profile%20views&color=0e75b6&style=flat" alt="divya-patil132" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chhakuli21&label=Profile%20views&color=0e75b6&style=flat" alt="chhakuli21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divya-patil132" alt="divya-patil132" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chhakuli21" alt="chhakuli21" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -21,10 +21,10 @@
 >I am looking for opportunities and collabaration in projects related to Web-Development/Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
 
 
-<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Permissy!!</a></h3>
+<h3>☘️ Currently working on<a href="https://github.com/chhakuli21/Permissy"> Permissy!!</a></h3>
 <h2 align="center">🛠 Tools & Technologies ⚡</h2>
  <p align="center">
-  <a href="https://github.com/divya-patil132">
+  <a href="https://github.com/chhakuli21">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,js,html,css,react,nodejs,express,mongodb,typescript,kotlin,next,angular,figma,linux" />
   </a>
 </p>
