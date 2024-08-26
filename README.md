@@ -13,7 +13,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Divya+Patil;A+Full+stack+Web/App+dev;Currently+exploring+the+world+of+AI" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Chhakuli+Patil;A+Full+stack+Web/App+dev;Currently+exploring+the+world+of+AI" />
 
          
 ### Glad to see you here! 🤩 &nbsp; 
